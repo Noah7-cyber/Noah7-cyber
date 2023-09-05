@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noah7-cyber
-- 👀 I’m interested in javascript, and arduino
-- 🌱 I’m currently learning react and nodejs
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in fullstack development and machine learning, and arduino
+- 🌱 I’m currently learning nextjs and nodejs
+- 💞️ I’m looking to collaborate on projects which may concern the use of AI
 - 📫 How to reach me github
 
 <!---
